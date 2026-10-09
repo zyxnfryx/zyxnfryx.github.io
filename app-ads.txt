@@ -1,0 +1,8 @@
+# app-ads.txt for ZFX Gaming LLC (Flock Five)
+OWNERDOMAIN=zyxnfryx.github.io
+# Unity LevelPlay / ironSource - fill in Publisher ID (ironSource platform > Account > API > Publisher ID)
+# ironsrc.com, <IRONSOURCE_PUBLISHER_ID>, DIRECT
+# Unity Ads - fill in Unity organization core ID (Unity Cloud > Monetization > app-ads.txt)
+# unity.com, <UNITY_ORG_ID>, DIRECT, 96cabb5fbdde37a7
+# Meta Audience Network
+# facebook.com, <META_PUBLISHER_ID>, DIRECT, c3e20eee3f780d68
